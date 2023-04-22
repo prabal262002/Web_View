@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         webiew.webViewClient = WebViewClient()
         webiew.apply {
             settings.javaScriptEnabled = true
-            loadUrl("https://www.youtube.com")
+            loadUrl("https://github.com/prabal262002")
         }
     }
 }
